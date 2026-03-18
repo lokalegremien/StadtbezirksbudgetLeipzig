@@ -13,16 +13,29 @@ Es ist keine Installation erforderlich. Das Logo der Stadt Leipzig können Sie d
 
 ## Nutzung
 
-### Verwendung der Logos
+### 🎨 Hinweise zur Förderung und Logo-Verwendung
+Bitte verwenden Sie das Logo der Stadt Leipzig in allen Veröffentlichungen zu Ihrem Projekt, um auf die Förderung aufmerksam zu machen. 
 
-Bitte verwenden Sie das Logo der Stadt Leipzig in allen Veröffentlichungen zu Ihrem Projekt, um auf die Förderung aufmerksam zu machen. Die Logos für die einzelnen Stadtbezirke sowie das allgemeine Logo finden Sie im `Logos` Verzeichnis.
+Im Rahmen der Öffentlichkeitsarbeit sind folgende Vorgaben zu beachten:
+
+#### 1. Förderhinweis (Textform)
+Bitte weisen Sie an gut sichtbarer Stelle in Textform auf die Unterstützung hin:
+
+„Gefördert durch Mittel aus dem Stadtbezirksbudget (z.B. Mitte) der Stadt Leipzig“
+
+#### 2. Verwendung des Logos
+Mit der Einführung des neuen Corporate Designs wird für Projekte aus dem Stadtbezirksbudget das allgemeine Logo der Stadt Leipzig verwendet.
+
+Das Logo der Stadt Leipzig können Sie direkt im Markenportal der Stadt Leipzig heruntergeladen werden [https://markenportal.leipzig.de/].
+
+Freigabepflicht: Wichtig! Jede Verwendung des Logos muss vor der Produktion oder Veröffentlichung durch das <b> Referat Kommunikation der Stadt Leipzig </b> freigegeben werden. Bitte planen Sie hierfür eine entsprechende Vorlaufzeit ein. Geben Sie dabei den Projekttitel sowie die Anwendungsfelder (z. B. Printmedien, Website, App) an.
 
 ### Textbausteine
 
 Für geförderte bauliche Maßnahmen (z.B. Parklet, Bank, Hochbeet) werden die folgenden Textbausteine empfohlen:
 
-*   **Allgemein:** "Gefördert durch Mittel aus dem Stadtbezirksbudget [Name des Stadtbezirksbeirates z.B. Mitte]."
-*   **Beispiel:** "Dieses Parklet wurde über das Budget des Stadtbezirksbeirates Mitte finanziert."
+*   **Allgemein:** "Gefördert durch Mittel aus dem Stadtbezirksbudget [Name des Stadtbezirksbeirates z.B. Ost]."
+*   **Beispiel:** "Dieses Parklet wurde über das Budget des Stadtbezirksbeirates Alt-West finanziert."
 
 ## Kontakt
 
@@ -34,6 +47,3 @@ Martin-Luther-Ring 4-6 <br>
 
 stadtbezirksbudget@leipzig.de
 
-## Lizenz
-
-Die Logos sind unter der Lizenz "Datenlizenz Deutschland Namensnennung 2.0" verwendbar.
